@@ -72,10 +72,10 @@
      git add .
      ```
    * 推至儲存庫
-        ``` sh
-        git remote add origin https://github.com/orange9982239/Draw.git
-        git branch -M main
-        git push -u origin main
-        ```
+     ``` sh
+     git remote add origin https://github.com/orange9982239/Draw.git
+     git branch -M main
+     git push -u origin main
+     ```
 ## 參考
    * https://git-lfs.github.com/
